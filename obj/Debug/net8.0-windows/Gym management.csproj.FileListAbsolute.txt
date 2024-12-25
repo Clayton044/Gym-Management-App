@@ -1,0 +1,16 @@
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\bin\Debug\net8.0-windows\Gym management.exe
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\bin\Debug\net8.0-windows\Gym management.deps.json
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\bin\Debug\net8.0-windows\Gym management.runtimeconfig.json
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\bin\Debug\net8.0-windows\Gym management.dll
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\bin\Debug\net8.0-windows\Gym management.pdb
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym_management.Form1.resources
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.csproj.GenerateResource.cache
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.AssemblyInfoInputs.cache
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.AssemblyInfo.cs
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.dll
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\refint\Gym management.dll
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.pdb
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\Gym management.genruntimeconfig.cache
+C:\Users\Amir\Desktop\My Files\HilCoE\Windows Programming-C#\Final Project\Gym management\Gym management\obj\Debug\net8.0-windows\ref\Gym management.dll
